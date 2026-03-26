@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Fir!
+
+👋 Hi, I’m Fir, or Andrew<br>I specalize in Luau, but do everything.<br>Currently, I'm working on my custom administration system, Trident and Kronos.<br>You can reach me at posted@prplbyte.me 
 
 <!--
 **FirTheDeveloper/FirTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
